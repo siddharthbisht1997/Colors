@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Ocean Dreams",
+        "colors": ["#1B4965", "#62B6CB", "#5FA8D3", "#CAE9F5"]
+    },
+    {
+        "name": "Forest Walk",
+        "colors": ["#2D5A27", "#4A8646", "#87AB69", "#C3D5B0"]
+    },
+    {
+        "name": "Desert Sunset",
+        "colors": ["#FE6D73", "#FFCB77", "#FFA45B", "#F7D6D0"]
+    }
+]
